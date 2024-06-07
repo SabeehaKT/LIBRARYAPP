@@ -31,31 +31,31 @@ const ViewTable = () => {
                                             <th scope="row">The Catcher in The Rye</th>
                                             <td>Thomas Edison</td>
                                             <td>2002</td>
-                                            <td>1200</td>
+                                            <td>Rs.1200</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">Educator</th>
                                             <td>Tara Watsover</td>
                                             <td>2012</td>
-                                            <td>2500</td>
+                                            <td>Rs.2500</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">Normal People</th>
                                             <td>Sally Rooney</td>
                                             <td>2018</td>
-                                            <td>1685</td>
+                                            <td>Rs.1685</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">Gone Girl</th>
                                             <td>Andy Wier</td>
                                             <td>2023</td>
-                                            <td>2185</td>
+                                            <td>Rs.2185</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">Station Eleven</th>
                                             <td>Emily St. John Mande</td>
                                             <td>2014</td>
-                                            <td>3500</td>
+                                            <td>Rs.3500</td>
                                         </tr>
 
                                     </tbody>
